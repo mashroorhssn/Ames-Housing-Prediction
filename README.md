@@ -1,4 +1,3 @@
-# Ames-Housing-Prediction
 # Ames Housing Price Prediction
 
 This project is a submission for the "Applied Machine Learning for Business" course. It demonstrates a complete machine learning workflow to predict house prices using the Ames, Iowa housing dataset.
